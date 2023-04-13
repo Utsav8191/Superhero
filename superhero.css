@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  --primary-font-color : 'poppins', sans-serif;
+  --body-bg-color: linear-gradient(to right, #000000, #434343);
+  --section-bg-color: linear-gradient(to right, #e52d27, #b31217);  
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: black;
+}
+main {
+  margin-top: 10vh;
+  width: 95%;
+  height: 100%;
+}
+
+section {
+  width: 100%;
+  height: 90%;
+  background: var(--section-bg-color);
+}
