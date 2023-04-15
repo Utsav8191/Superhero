@@ -29,8 +29,8 @@
     <!-- Middle Section (Anchor Texts) -->
     <div class="anchor-container">
       <a href="#">Home</a>
-      <a href="#">Quotes</a>
-      <a href="#">Favourites</a>
+      <a href="quotes.html">Quotes</a>
+      <a href="favourites.html">Favourites</a>
     </div>
     <!-- Right Section (Image) -->
     <div class="right-image">
@@ -46,10 +46,13 @@
     <section id="second-section">
           <!----Input box---->
     <div class="input-container">
-      <input type="search" placeholder="Search Heroes" value="">
-      <button type="search"><i class="fa-solid fa-magnifying-glass"></i></button>
+      <input type="search" id="input-field" placeholder="Search Heroes" value="">
+      <button type="search" onclick="handleSearch()"><i class="fa-solid fa-magnifying-glass"></i></button>
     </div>
       <video src="assets/Marvel Epic Main Intro Theme Music (Full Version) Phase 4 Opening Music.mp4" muted loop autoplay></video>
+      <!-- <div class="hero-container">
+
+      </div> -->
     </section>
 
     <section id="third-section">
@@ -75,5 +78,8 @@
   <footer>
     <p>Made With <i class="fa-sharp fa-solid fa-heart" style="color: #ff0505;"></i> By Utsav</p>
   </footer>
+
+
 </body>
+<script src="index.js"></script>
 </html>
