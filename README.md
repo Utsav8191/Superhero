@@ -22,6 +22,16 @@ This is a superhero hunter project that uses Superhero API to fetch details of s
 * **IDE :** VSCode
 * **Hosting :** GitHub
 
+## :link: Links
+
+**Link to web-app :** 
+
+## :mailbox_with_mail: Contact Me
+
+- **Email :** utsavkumargupta8191@gmail.com
+- **LinkedIn :** www.linkedin.com/in/utsav-gupta8191a
+- **Instagram :** https://www.instagram.com/utsaav_01/
+
 
 
 
