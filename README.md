@@ -1,12 +1,12 @@
 ## Introduction
 
 This is a superhero hunter project that uses Superhero API to fetch details of searched superheroes. However this projects includes other additional features :
-:point_right: Users can browse and search across various superheroes.
-:point_right: An input search box has been provided to type and search for superhero.
-:point_right: Users can check details of their favourite superhero.
-:point_right: Users can add a hero to favourites section and also delete them as they please.
-:point_right: Various quotes by superheroes can be browsed from quotes page that houses collection of wise words said by superheroes themselves.
-:point_right: Overall web-app is responsive and can be viewed on various screen-sizes and devices.
+- Users can browse and search across various superheroes.
+- An input search box has been provided to type and search for superhero.
+- Users can check details of their favourite superhero.
+- Users can add a hero to favourites section and also delete them as they please.
+- Various quotes by superheroes can be browsed from quotes page that houses collection of wise words said by superheroes themselves.
+- Overall web-app is responsive and can be viewed on various screen-sizes and devices.
 
 :exclamation: ## Note
 
