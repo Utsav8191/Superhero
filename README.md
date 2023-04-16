@@ -17,10 +17,10 @@ This is a superhero hunter project that uses Superhero API to fetch details of s
 
 ## :pick: Tools Used
 
-* Front-end : HTML, CSS
-* Scripting : JavaScript
-* IDE : VSCode
-* Hosting : GitHub
+* **Front-end :** HTML, CSS
+* **Scripting :** JavaScript
+* **IDE :** VSCode
+* **Hosting :** GitHub
 
 
 
